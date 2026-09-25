@@ -9,7 +9,7 @@ Dokumentasi CRISP-DM lengkap (Business Understanding, Data Prep, Analysis,
 Insight & Recommendation): [Link Notion](https://app.notion.com/p/Delivery-Driven-Customer-Satisfaction-Analysis-Olist-E-Commerce-d09804e95aaf828aa96c018a1591f1ef?source=copy_link)
 
 ## 📊 Dashboard
-Dashboard Power BI 3 halaman: [Link Google Drive](https://drive.google.com/file/d/1zjAsI0eMRc-LLR4J3QOU-kYIQm1bAgHR/view?usp=sharing)
+Dashboard Power BI : [Link Google Drive](https://drive.google.com/file/d/1zjAsI0eMRc-LLR4J3QOU-kYIQm1bAgHR/view?usp=sharing)
 
 ## 🎯 Business Question
 Wilayah mana yang perlu diprioritaskan untuk audit dan renegosiasi SLA dengan 
